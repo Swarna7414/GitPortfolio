@@ -1,4 +1,4 @@
-# 🚀 Sai Sankar Swarna - GitHub Portfolio
+# 🧑‍💻 Sai Sankar Swarna - GitHub Portfolio
 
 Welcome to my GitHub portfolio! I'm **Sai Sankar Swarna**, a **Software Engineer** with expertise in **Java, Python, and Spring Boot**. This repository showcases my **projects, experience, and skills** in **backend development, microservices, and DevOps**.
 
